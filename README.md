@@ -47,4 +47,3 @@ This project demonstrates how to:
 1. Clone this repository:
    ```bash
    git clone https://github.com/realdanielsoto/modc4.git
-
